@@ -12,4 +12,4 @@
 * <a href = "https://github.com/mikh-maksi/gamedev-probe">GameDev</a>
 * <a href = "https://github.com/mikh-maksi/minecraft-probe">Minecraft</a>
 * <a href = "https://github.com/mikh-maksi/frontend-probe">FrontEnd</a>
-* <a href = "https://github.com/mikh-maksi/python-probe/tree/master/quiz>Python</a>
+* <a href = "https://github.com/mikh-maksi/python-probe/tree/master/quiz">Python</a>
