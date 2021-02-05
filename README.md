@@ -9,7 +9,7 @@
   
 В течение пробного занятия необходимо **реализовать мини-проект**, т.е. в конце урока студенты должны иметь результат, желательно, чтобы и после урока студенты могли сохранить свой результат и показать это знакомым и родителям.
 
-* <a href = "https://github.com/mikh-maksi/gamedev-probe">GameDev</a>
-* <a href = "https://github.com/mikh-maksi/minecraft-probe">Minecraft</a>
-* <a href = "https://github.com/mikh-maksi/frontend-probe">FrontEnd</a>
-* <a href = "https://github.com/mikh-maksi/python-probe/tree/master/quiz">Python</a>
+* <a href = "https://github.com/mikh-maksi/gamedev-probe" target = "_blank">GameDev</a>
+* <a href = "https://github.com/mikh-maksi/minecraft-probe" target = "_blank">Minecraft</a>
+* <a href = "https://github.com/mikh-maksi/frontend-probe" target = "_blank">FrontEnd</a>
+* <a href = "https://github.com/mikh-maksi/python-probe/tree/master/quiz" target = "_blank">Python</a>
